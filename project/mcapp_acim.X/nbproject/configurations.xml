@@ -163,7 +163,7 @@
         <property key="enable-unroll-loops" value="false"/>
         <property key="expand-pragma-config" value="false"/>
         <property key="extra-include-directories"
-                  value="..\library;..\diagnostics;..\foc;..\hal;..\library\motor;..\"/>
+                  value="..\library\x2cscope;..\diagnostics;..\foc;..\hal;..\library\motor;..\"/>
         <property key="isolate-each-function" value="false"/>
         <property key="keep-inline" value="false"/>
         <property key="oXC16gcc-cnsts-mauxflash" value="false"/>
