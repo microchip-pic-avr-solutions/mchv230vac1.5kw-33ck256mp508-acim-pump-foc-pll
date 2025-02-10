@@ -163,7 +163,7 @@
         <property key="enable-unroll-loops" value="false"/>
         <property key="expand-pragma-config" value="false"/>
         <property key="extra-include-directories"
-                  value="..\application;..\diagnostics;..\foc;..\hal;..\library\motor;..\;..\library\x2cscope"/>
+                  value="..\library;..\diagnostics;..\foc;..\hal;..\library\motor;..\"/>
         <property key="isolate-each-function" value="false"/>
         <property key="keep-inline" value="false"/>
         <property key="oXC16gcc-cnsts-mauxflash" value="false"/>
@@ -225,7 +225,7 @@
         <property key="enable-handles" value="true"/>
         <property key="enable-pack-data" value="true"/>
         <property key="extra-lib-directories"
-                  value="..\library\motor;..\library\x2cscope;..\"/>
+                  value="..\library\motor;..\library\x2cscope"/>
         <property key="fill-flash-options-addr" value=""/>
         <property key="fill-flash-options-const" value=""/>
         <property key="fill-flash-options-how" value="0"/>
