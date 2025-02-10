@@ -46,7 +46,7 @@
 *******************************************************************************/
 // </editor-fold>
 
-#include "X2CScope.h"
+#include "x2cscope.h"
 #include "uart1.h"
 #include <stdint.h>
 
