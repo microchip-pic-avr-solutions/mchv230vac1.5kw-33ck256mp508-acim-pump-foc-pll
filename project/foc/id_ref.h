@@ -63,7 +63,7 @@ extern "C" {
 #include "motor_control.h"
 #include "motor_params.h"
 #include "estim_pll.h"
-#include "sat_PI/sat_PI.h"
+#include "sat_pi/sat_pi.h"
 
 // </editor-fold>
 

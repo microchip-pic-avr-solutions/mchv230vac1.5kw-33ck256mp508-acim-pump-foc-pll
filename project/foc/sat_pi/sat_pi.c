@@ -46,8 +46,8 @@
 
 // <editor-fold defaultstate="collapsed" desc="HEADER FILES ">
 
-#include "sat_PI/sat_PI.h"
-#include "sat_PI/system.h"
+#include "sat_pi/sat_pi.h"
+#include "sat_pi/system.h"
 
 // </editor-fold>
 
