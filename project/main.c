@@ -53,7 +53,7 @@
 
 #include "board_service.h"
 
-#include "diagnostics/diagnostics.h"
+#include "diagnostics.h"
 
 #include "mc1_service.h"
 
